@@ -14,6 +14,7 @@ The number reported is obtained by running the following code:
 		mkdir build
 		cd build
 		cmake ..
+		make
 		./dlsag
 ## Note
 
